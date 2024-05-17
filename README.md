@@ -37,6 +37,8 @@ while True:
 ## CLINT
 ![image](https://github.com/feryjfgkuyfgewjfgew/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/150319377/6a237483-ec72-42cd-9463-53606076d4d6)
 
+## SERVER
+![Screenshot 2024-05-17 185718](https://github.com/feryjfgkuyfgewjfgew/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/150319377/97c20da5-2d54-452a-a369-d8d57a81b7f7)
 
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
